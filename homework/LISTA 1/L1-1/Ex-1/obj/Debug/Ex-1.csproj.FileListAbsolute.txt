@@ -1,0 +1,13 @@
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\bin\Debug\Ex-1.exe.config
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\bin\Debug\Ex-1.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\bin\Debug\Ex-1.pdb
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\obj\Debug\Ex-1.csproj.AssemblyReference.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\obj\Debug\Ex-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\obj\Debug\Ex-1.csproj.CoreCompileInputs.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\obj\Debug\Ex-1.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-1\Ex-1\obj\Debug\Ex-1.pdb
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\Ex-1\Ex-1\obj\Debug\Ex-1.csproj.AssemblyReference.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\Ex-1\Ex-1\obj\Debug\Ex-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\Ex-1\Ex-1\obj\Debug\Ex-1.csproj.CoreCompileInputs.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\Ex-1\Ex-1\obj\Debug\Ex-1.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\Ex-1\Ex-1\obj\Debug\Ex-1.pdb

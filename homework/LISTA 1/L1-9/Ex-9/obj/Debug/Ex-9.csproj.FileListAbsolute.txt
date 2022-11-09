@@ -1,0 +1,8 @@
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\obj\Debug\Ex-9.csproj.AssemblyReference.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\obj\Debug\Ex-9.csproj.SuggestedBindingRedirects.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\obj\Debug\Ex-9.csproj.CoreCompileInputs.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\bin\Debug\Ex-9.exe.config
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\bin\Debug\Ex-9.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\bin\Debug\Ex-9.pdb
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\obj\Debug\Ex-9.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-9\Ex-9\obj\Debug\Ex-9.pdb

@@ -1,0 +1,8 @@
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\bin\Debug\Ex-13.exe.config
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\bin\Debug\Ex-13.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\bin\Debug\Ex-13.pdb
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\obj\Debug\Ex-13.csproj.AssemblyReference.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\obj\Debug\Ex-13.csproj.SuggestedBindingRedirects.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\obj\Debug\Ex-13.csproj.CoreCompileInputs.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\obj\Debug\Ex-13.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\1SEM\ALGORITIMO E LINGUAGEM DE PROGRAMAÇÃO\ATIV\Ex-13\Ex-13\obj\Debug\Ex-13.pdb

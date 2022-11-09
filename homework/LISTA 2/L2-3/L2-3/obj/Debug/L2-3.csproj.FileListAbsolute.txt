@@ -1,0 +1,6 @@
+C:\Users\douglas.sousa1_uscso\Desktop\LISTA\LISTA 2\L2-3\L2-3\bin\Debug\L2-3.exe.config
+C:\Users\douglas.sousa1_uscso\Desktop\LISTA\LISTA 2\L2-3\L2-3\bin\Debug\L2-3.exe
+C:\Users\douglas.sousa1_uscso\Desktop\LISTA\LISTA 2\L2-3\L2-3\bin\Debug\L2-3.pdb
+C:\Users\douglas.sousa1_uscso\Desktop\LISTA\LISTA 2\L2-3\L2-3\obj\Debug\L2-3.csproj.CoreCompileInputs.cache
+C:\Users\douglas.sousa1_uscso\Desktop\LISTA\LISTA 2\L2-3\L2-3\obj\Debug\L2-3.exe
+C:\Users\douglas.sousa1_uscso\Desktop\LISTA\LISTA 2\L2-3\L2-3\obj\Debug\L2-3.pdb

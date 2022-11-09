@@ -1,0 +1,8 @@
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\bin\Debug\ATIV-4.exe.config
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\bin\Debug\ATIV-4.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\bin\Debug\ATIV-4.pdb
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\obj\Debug\ATIV-4.csproj.AssemblyReference.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\obj\Debug\ATIV-4.csproj.SuggestedBindingRedirects.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\obj\Debug\ATIV-4.csproj.CoreCompileInputs.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\obj\Debug\ATIV-4.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\inclass\ATIV-4\ATIV-4\obj\Debug\ATIV-4.pdb

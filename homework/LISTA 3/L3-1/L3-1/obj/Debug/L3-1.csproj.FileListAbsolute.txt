@@ -1,0 +1,8 @@
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\bin\Debug\L3-1.exe.config
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\bin\Debug\L3-1.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\bin\Debug\L3-1.pdb
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\obj\Debug\L3-1.csproj.AssemblyReference.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\obj\Debug\L3-1.csproj.SuggestedBindingRedirects.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\obj\Debug\L3-1.csproj.CoreCompileInputs.cache
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\obj\Debug\L3-1.exe
+C:\Users\dgsou\Desktop\Douglas\USCS\ALGORITMO E LÓGICA DE PROGRAMAÇÃO\S1-ALGORITMO E LÓGICA DE PROGRAMAÇÃO\homework\LISTA 3\L3-1\L3-1\obj\Debug\L3-1.pdb
